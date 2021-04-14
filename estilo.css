@@ -72,7 +72,7 @@ width: 100%;
 
 }
 
-#aoladoSobre{
+#aoladoSobre> img{
   display: flexbox;
   width: 100px;
   height: 100px;
