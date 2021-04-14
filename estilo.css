@@ -40,9 +40,23 @@
   100% { opacity: 0; }
 }
 
-
+.fadein img { 
+  opacity:0; 
+  animation-name: fade; 
+  animation-duration: 9s; 
+  animation-iteration-count: infinite; 
+  position:absolute; 
+  left:0; 
+  right:0; 
+}
+.fadein img:nth-child(1) { animation-delay: 0s; }
+.fadein img:nth-child(2) { animation-delay: 3s; }
+.fadein img:nth-child(3) { animation-delay: 6s; }
+.fadein img:nth-child(4) { animation-delay: 9s; }
+.fadein img:nth-child(5) { animation-delay: 12s; }
+.fadein img:nth-child(6) { animation-delay: 15s; }
 /* o slideshow em si */
-.slideshow img {
+.fadein img {
 width: 100%;
 }
 
