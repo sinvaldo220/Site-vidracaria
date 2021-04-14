@@ -16,18 +16,12 @@
 .menu div {
   float: left;
   display: block;
-  color: #f2f2f2;
   text-align: center;
-  padding: 1px 16px;
-  padding-right: 10%;
-  text-decoration: none;
-  font-size: 17px;
+  padding-top: 6px;
 }
 .menu img {
-  background-color: #fff;
   float: left;
   width: 30%;
-  height: auto;
 }
 
 .menu a:hover {
