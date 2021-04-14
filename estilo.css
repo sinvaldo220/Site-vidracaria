@@ -61,7 +61,7 @@
 width: 100%;
 }
 
-.sobreTitulo{
+.sobreTitulo {
   background-image: url(imagem/7.jpg);
   width: 1390px;
   height: 90px;
@@ -73,9 +73,10 @@ width: 100%;
 
 }
 
-.aoladoSobre img{
+.aoladoSobre img {
   width: 190px;
   height: 190px;
   border-radius: 14px;
   margin: auto;
+  text-align: center;
 }
