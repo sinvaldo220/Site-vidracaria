@@ -1,5 +1,5 @@
 .menu {
-  background-color: #39f;
+  background-color: #000;
   overflow: hidden;
 }
 
@@ -18,11 +18,10 @@
   display: block;
   text-align: center;
   padding-top: 6px;
-  padding-bottom: 12px;
-  background-color: #fff;
 }
 .menu img {
   float: left;
+  width: 30%;
 }
 
 .menu a:hover {
@@ -30,3 +29,6 @@
   color: black;
 }
 
+.carousel-inner{
+  che
+}
