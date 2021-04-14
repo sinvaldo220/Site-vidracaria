@@ -30,7 +30,11 @@
   color: black;
 }
 
-#sobreTitulo,h1{
+.slideshow img {
+width: 100%;
+}
+
+#sobreTitulo, h1{
   background-color: #44d9e6;
   width: 190px;
   height: 90px;
