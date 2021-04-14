@@ -74,9 +74,14 @@ width: 100%;
 }
 
 .aoladoSobre img {
-  width: 250px;
+  width: 450px;
   height: 250px;
-  border-radius: 14px;
-  margin-left: 350px;
+  border-radius: 8px;
+  margin-left: 100px;
   margin-top: 50px;
+}
+
+.aoladoSobre p {
+  font-size: 14pt;
+  text-align: center;
 }
