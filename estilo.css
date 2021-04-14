@@ -73,6 +73,8 @@ width: 100%;
 
 }
 
-#aoladoSobre{
+#aoladoSobre>img{
   display: flexbox;
+  width: 300px;
+  height: 3400px;
 }
