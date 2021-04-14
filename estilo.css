@@ -85,3 +85,8 @@ width: 100%;
   font-size: 14pt;
   text-align: center;
 }
+
+h2 {
+  text-align: center;
+  text-align: justify;
+}
