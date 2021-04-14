@@ -97,5 +97,6 @@ h2 {
 }
 
 .sobreIndex {
-
+  position:absolute ;
+  margin-top: 80vh;
 }
