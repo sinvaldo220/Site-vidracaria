@@ -18,13 +18,16 @@
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 1px 16px;
   padding-right: 10%;
   text-decoration: none;
   font-size: 17px;
 }
-.menu span {
-  color: #333333;
+.menu img {
+  background-color: #fff;
+  float: left;
+  width: 30%;
+  height: auto;
 }
 
 .menu a:hover {
