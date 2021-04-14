@@ -73,6 +73,7 @@ width: 100%;
 
 }
 
-.aoladoSobre{
-  border-radius: 10px;
+.aoladoSobre div, div{
+  width: 150px;
+  height: 150px;
 }
