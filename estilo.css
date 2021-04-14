@@ -29,3 +29,7 @@
   background-color: #ddd;
   color: black;
 }
+
+.slideshow img {
+  width: 100%;
+}
