@@ -81,9 +81,11 @@ width: 100%;
 .aoladoSobre img {
   width: 350px;
   height: 220px;
+  display: inline-table;
   border-radius: 8px;
   margin-left: 100px;
   margin-top: 50px;
+  border: solid 8px rgb(131, 255, 255);
 }
 
 .aoladoSobre p {
@@ -188,6 +190,14 @@ h2 {
   -o-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
 } */
+
+.modeloVidro img {
+  width: 350px;
+  height: 220px;
+  margin-left: 100px;
+  margin-top: 50px;
+  border: solid 3px black;
+}
 
 .footer {
   position: fixed;
