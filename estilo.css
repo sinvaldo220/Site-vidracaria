@@ -102,7 +102,7 @@ h2 {
   margin-top: 80vh;
 }
 
-#FIMfim {
+/* #FIMfim {
   bottom: 0px;
   width: 100%;
   min-width: 600px;	background-image:url('imagem/WhatsApp\ Image\ 2021-04-09\ at\ 09.12.58\ -\ Copia.jpeg');
@@ -167,9 +167,9 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   position: relative; 
-}
+} */
 
-.rdp:link {
+/* .rdp:link {
   text-decoration: none;
   color: rgb(26, 23, 23);
 }
@@ -187,4 +187,20 @@ h2 {
   -moz-transition: 0.2s ease-out;
   -o-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
+} */
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #000;
+  color: white;
+  text-align: center;
+}
+
+#col3 a{
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
 }
