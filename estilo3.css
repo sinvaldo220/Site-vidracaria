@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   display: grid;
   grid-template-columns: 1;
@@ -63,4 +67,21 @@ iframe {
   margin-top: 50px;
   font-family: Arial, Helvetica, sans-serif;
   color: #000;
+}
+
+.column {
+  color: #0f0f0f;
+  background-color: #f0f0f0;
+  border: #0f0f0f;
+  border-radius: 10px;
+  border-style: solid;
+  float: left;
+  width: 350px;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
