@@ -1,0 +1,44 @@
+body {
+  display: block;
+}
+
+.menu {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #000;
+  overflow: hidden;
+}
+
+.menu a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.menu div {
+  float: left;
+  display: block;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 16px;
+  background-color: #fff;
+}
+.menu img {
+  float: left;
+}
+
+.menu a:hover {
+  background-color: #ddd;
+  color: #000;
+}
+
+iframe {
+  width: 100%;
+  height: 367px;
+  border:  none;
+}
