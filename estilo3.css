@@ -85,3 +85,31 @@ iframe {
   clear: both;
   display: table;
 }
+
+.contato {
+  width: 100%;
+  background-color: #000;
+  overflow: hidden;
+}
+.contato a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.contato a:hover {
+  background-color: #ddd;
+  color: #000;
+}
+
+.contato div {
+  float: left;
+  display: block;
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 16px;
+}
