@@ -3,6 +3,7 @@ html {
 }
 
 body {
+  width: 100%;
   display: grid;
   grid-template-columns: 1;
   color: #fff;
@@ -116,7 +117,17 @@ iframe {
   text-align: center;
 }
 
+.mapa {
+  display: grid;
+  grid-template-columns: 1;
+}
+
+#texto1 {
+  width: 100%;
+}
+
 .mapa iframe {
   width: 500px;
   height: 350px;
+  float: left;
 }
