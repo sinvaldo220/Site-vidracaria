@@ -110,6 +110,10 @@ iframe {
   float: left;
   display: block;
   text-align: center;
-  padding-top: 14px;
+  padding-top: 20px;
   padding-bottom: 16px;
+}
+
+.footer {
+  text-align: center;
 }
