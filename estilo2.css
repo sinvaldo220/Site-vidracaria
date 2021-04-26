@@ -223,10 +223,10 @@ h2 {
 }
 
 .footer {
-  position: fixed;
+  position: relative;
   left: 0;
   bottom: 0;
-  margin-top: 10px;
+  margin-top: 100%;
   width: 100%;
   background-color: #000;
   color: white;
@@ -261,4 +261,9 @@ html {
   content: "";
   clear: both;
   display: table;
+}
+
+.contato {
+  position: inherit;
+  background-color: #fff;
 }
