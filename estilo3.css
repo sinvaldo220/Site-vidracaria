@@ -117,13 +117,9 @@ iframe {
   text-align: center;
 }
 
-.mapa {
-  display: grid;
-  grid-template-columns: 1;
-}
-
 #texto1 {
   width: 100%;
+  margin: 0px;
 }
 
 .mapa iframe {
