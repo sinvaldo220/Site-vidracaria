@@ -8,9 +8,7 @@ body {
   color: #fff;
   background-color: #0f0f0f;
 }
-#home {
-  display: none;
-}
+
 body > div {
     background-color: #0f0f0f;
 }
