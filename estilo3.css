@@ -2,6 +2,7 @@ body {
   display: grid;
   grid-template-columns: 1;
   color: #fff;
+  background-color: #0f0f0f;
 }
 #home {
   display: none;
@@ -48,6 +49,6 @@ body > div {
 
 iframe {
   width: 100%;
-  height: 367px;
+  height: 80vh;
   border:  none;
 }
