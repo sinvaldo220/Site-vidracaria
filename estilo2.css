@@ -226,17 +226,18 @@ h2 {
   position: fixed;
   left: 0;
   bottom: 0;
+  margin-top: 10px;
   width: 100%;
   background-color: #000;
   color: white;
   text-align: center;
 }
 
-#col3 a{
+/* #col3 a{
   text-decoration: none;
   color: #fff;
   display: inline;
-}
+} */
 
 html {
   scroll-behavior: smooth;
