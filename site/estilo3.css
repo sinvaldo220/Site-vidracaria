@@ -127,3 +127,8 @@ iframe {
   height: 350px;
   float: left;
 }
+
+.videos iframe{
+  width: 640px;
+  height: 360px;
+}
