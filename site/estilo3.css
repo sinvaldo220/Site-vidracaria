@@ -128,7 +128,7 @@ iframe {
   float: left;
 }
 
-.videos {
+.videos iframe{
   width: 350px;
   height: 197px;
 }
