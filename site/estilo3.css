@@ -7,7 +7,7 @@ body {
   display: grid;
   grid-template-columns: 1;
   color: #fff;
-  background-color: #0f0f0f;
+  background-color: white;
 }
 
 body > div {
