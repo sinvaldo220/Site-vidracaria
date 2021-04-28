@@ -130,16 +130,30 @@ iframe {
   width: 500px;
   height: 350px;
   float: left;
+  margin-right: 40px;
+  margin-left: 40px;
 }
 
-div h2 {
-  font-family: Georgia, 'Times New Roman', Times, serif;
- text-align: justify;
- padding-left: 20px;
+.textoVidro, h2, p{
+  margin: auto;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  font-size: 22pt;
+  color: rgb(191, 196, 196);
 }
+
+#textoFale h2{
+  text-align: justify;
+  padding-right: 50px;
+}
+
 
 .videos iframe{
   width: 540px;
   height: 360px;
   margin-left: 40px;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
 }
