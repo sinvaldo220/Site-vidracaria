@@ -77,6 +77,10 @@ iframe {
   float: left;
   width: 350px;
   padding: 5px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .row::after {
@@ -128,7 +132,14 @@ iframe {
   float: left;
 }
 
+div h2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ text-align: justify;
+ padding-left: 20px;
+}
+
 .videos iframe{
-  width: 640px;
+  width: 540px;
   height: 360px;
+  margin-left: 40px;
 }
