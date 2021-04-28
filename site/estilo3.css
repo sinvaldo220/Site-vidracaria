@@ -3,11 +3,12 @@ html {
 }
 
 body {
-  width: 100%;
   display: grid;
   grid-template-columns: 1;
+  width: 100%;
   color: #fff;
   background-color: white;
+  overflow: hidden;
 }
 
 body > div {
@@ -15,6 +16,7 @@ body > div {
 }
 
 .menu {
+  left: 0;
   position: fixed;
   top: 0;
   width: 100%;
@@ -115,6 +117,7 @@ iframe {
   text-align: center;
   padding-top: 20px;
   padding-bottom: 16px;
+  overflow: hidden;
 }
 
 .footer {
