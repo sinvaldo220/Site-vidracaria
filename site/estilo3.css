@@ -6,9 +6,10 @@ body {
   display: grid;
   grid-template-columns: 1;
   width: 100%;
+  margin: 0px;
   color: #fff;
   background-color: white;
-  overflow: hidden;
+  overflow: unset;
 }
 
 body > div {
